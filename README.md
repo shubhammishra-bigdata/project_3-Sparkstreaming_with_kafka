@@ -19,7 +19,7 @@ Spark Streaming integeration with kafka 0.10.0.0 and above, is still in experime
 
  3. Start Producer.py to start reading data from the meetup stream and store it in '''meetup''' kafka topic.
 
- 4.Start Consumer.py to consume the stream from the '''meetup''' topic
+ 4. Start Consumer.py to consume the stream from the '''meetup''' topic
 
  5. Submit the spark job spark_meetup.py, to read the data into Spark Streaming from Kafka.
 
